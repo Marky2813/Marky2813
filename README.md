@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Marky2813
-- 👀 I’m interested in getting to know the tech world, currently a newbie and trying to familiarize myself with the jargons
-- 🌱 I’m currently learning  web development 
-- 💞️ I’m looking to collaborate on development projects 
-- 📫 How to reach me https://x.com/Sarthak81272
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: don't hesitate to talk, it's not gonna be weird 
+# Hi, I'm Sarthak
 
+Full-stack developer and builder. Background in content creation 
+and marketing now building real products with code.
+
+## What I'm building
+- **RouteEasy** — last-mile delivery optimization platform
+- **PetMatch** — matchmaking app for dogs
+
+## Tech Stack
+React · Node.js · Express · Supabase · PostgreSQL · 
+Tailwind CSS · C++
+
+## Currently
+- Looking for internship opportunities
+
+## Reach me
+[Twitter](https://x.com/GrowWithSarthak)
 <!---
 Marky2813/Marky2813 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
