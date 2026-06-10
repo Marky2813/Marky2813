@@ -8,7 +8,7 @@ I talked to riders in my locality to understand this. Then built a system that s
 
 [HackWhichCity](https://github.com/Marky2813/HackWhichCity) - Chrome extension for Devfolio
 I use Devfolio to find hackathons. But you have to click every single listing just to see the city.
-So I built an extension that shows you the city on hover.
+So I built an extension that shows you the city on hover
 
 [Visible](https://github.com/Marky2813/visible) - Focus timer for desktop
-A lightweight timer for deep work which shows you where you time was spent. 
+A lightweight timer for deep work which shows you where you time was spent 
