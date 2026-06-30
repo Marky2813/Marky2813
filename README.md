@@ -11,4 +11,4 @@ I use Devfolio to find hackathons. But you have to click every single listing ju
 So I built an extension that shows you the city on hover
 
 [Visible](https://github.com/Marky2813/visible) - Focus timer for desktop
-A lightweight timer for deep work which shows you where you time was spent 
+A lightweight timer for deep work which shows you where you time was spent. 
